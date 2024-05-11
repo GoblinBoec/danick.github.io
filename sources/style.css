@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Oswald:wght@200..700&display=swap');
+
+#s1{
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal; }
+
+h1{ font-family: "Oswald", sans-serif;   
+    font-style: normal; 
+    color:rgb(255, 255, 255);
+    background-color: aqua;}
+
+h2{ color: white;
+
+    }
+
+a{    justify-content: flex-end;
+    text-align: end;
+    }
+
+#logo{
+    width: 100px;
+    height: 100px;}
+
+header{
+    width: 100%;
+    background: aqua;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+#il1{
+    justify-content: flex-end;
+    object-position: right center;
+}
+
+#osn{
+    text-align: center;
+}
+
+#inline{
+    display: block;
+}
+
+article{
+    background-color: #1C1E53;
+}
+
+#p1{
+    color: white;
+}
+
+article > p{
+    display: inline;
+}
+
+article > img{
+    display: inline;
+}
+
+
